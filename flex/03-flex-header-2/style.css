@@ -57,14 +57,13 @@ ul {
   list-style-type: none;
 
   display: flex;
-  justify-content: center;
-  padding: 0px;
-  margin: 0px;
-  gap: 16px;
+  margin: 0;
+  padding: 0;
 }
 
 .left-side,
 .right-side {
   display: flex;
   align-items: center;
+  gap: 16px;
 }
